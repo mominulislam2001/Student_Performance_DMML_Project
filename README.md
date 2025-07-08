@@ -1,1 +1,3 @@
-# Student_Performance_DMML_Project
+# Student CGPA Predictor
+
+This is a Streamlit app that predicts a student's CGPA class (Low, Medium, High) using a Random Forest model.
