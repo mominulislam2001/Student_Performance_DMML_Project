@@ -1,0 +1,41 @@
+{
+    "gender_map": {
+      "Male": 0,
+      "Female": 1
+    },
+    "income_map": {
+      "Low (Below 15,000)": 0,
+      "Lower middle (15,000-30,000)": 1,
+      "Upper middle (30,000-50,000)": 2,
+      "High (Above 50,000)": 3
+    },
+    "hometown_map": {
+      "Village": 0,
+      "City": 1
+    },
+    "preparation_map": {
+      "0-1 Hour": 0,
+      "2-3 Hours": 1,
+      "More than 3 Hours": 2
+    },
+    "gaming_map": {
+      "0-1 Hour": 0,
+      "2-3 Hours": 1,
+      "More than 3 Hours": 2
+    },
+    "attendance_map": {
+      "Below 40%": 0,
+      "40%-59%": 1,
+      "60%-79%": 2,
+      "80%-100%": 3
+    },
+    "job_map": {
+      "No": 0,
+      "Yes": 1
+    },
+    "extra_map": {
+      "No": 0,
+      "Yes": 1
+    }
+  }
+  
